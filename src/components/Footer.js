@@ -43,7 +43,7 @@ const Footer = () => (
           <a href="https://aaronsouthammavong.com" className="footer__link">
             Aaron Southammavong
           </a>{' '}
-          using ReactJS. Design by Jonas Schmedmann.
+          using ReactJS. Design by Jonas Schmedtmann.
         </p>
       </div>
     </div>
