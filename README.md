@@ -8,7 +8,7 @@
 
 ##### run `npm install`
 
-##### run `npm build:dev`
+##### run `npm run build:dev`
 
 ##### run `npm run dev-server`
 
