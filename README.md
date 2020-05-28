@@ -12,4 +12,4 @@
 
 ##### run `npm run dev-server`
 
-###### Design belongs to **_Jonas Schmedtmen_**
+###### Design belongs to **_Jonas Schmedtmann_**
