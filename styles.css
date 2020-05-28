@@ -999,8 +999,8 @@ body {
 
 @font-face {
   font-family: 'linea-basic-10';
-  src: url(/fonts/linea-basic-10.eot);
-  src: url(/fonts/linea-basic-10.eot?#iefix) format("embedded-opentype"), url(/fonts/linea-basic-10.woff) format("woff"), url(/fonts/linea-basic-10.ttf) format("truetype"), url(/react-natours/images/linea-basic-10.svg#linea-basic-10) format("svg");
+  src: url(/react-natours/fonts/linea-basic-10.eot);
+  src: url(/react-natours/fonts/linea-basic-10.eot?#iefix) format("embedded-opentype"), url(/react-natours/fonts/linea-basic-10.woff) format("woff"), url(/react-natours/fonts/linea-basic-10.ttf) format("truetype"), url(/react-natours/images/linea-basic-10.svg#linea-basic-10) format("svg");
   font-weight: normal;
   font-style: normal; }
 
