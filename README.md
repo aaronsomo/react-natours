@@ -6,10 +6,10 @@
 
 ##### git clone this repo
 
-##### run `npm install`
+##### run `npm install` in root directory
 
-##### run `npm run build:dev`
+##### run `npm run build:dev` in root directory
 
-##### run `npm run dev-server`
+##### run `npm run dev-server` in root directory
 
 ###### Design belongs to **_Jonas Schmedtmann_**
