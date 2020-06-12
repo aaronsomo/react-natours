@@ -12,4 +12,6 @@
 
 ##### run `npm run dev-server` in root directory
 
+##### visit `localhost:3000` in browser
+
 ###### Design belongs to **_Jonas Schmedtmann_**
