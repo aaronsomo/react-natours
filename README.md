@@ -1,17 +1,27 @@
 # Natours
 
-##### This is a react implementation of an HTML mocksite that an advanced CSS course goes over. The course strictly went over HTML & CSS styling. I took it upon myself to refactor the code into React components and modularized them for re-usability.
+## Table of Contents
 
-##### To run locally:
+- [Usage](#usage)
+- [Installation](#installation)
+- [Resources](#resources)
+- [License](#license)
 
-##### git clone this repo
+## Usage
 
-##### run `npm install` in root directory
+## Installation
+`git clone https://github.com/aaronsomo/react-natours.git`
 
-##### run `npm run build:dev` in root directory
+### To run locally:
+1. run `npm install` in root directory
+2. run `npm run build:dev` in root directory
+3. run `npm run dev-server` in root directory
+4. visit `localhost:3000` in browser
 
-##### run `npm run dev-server` in root directory
+## Resources
 
-##### visit `localhost:3000` in browser
+## License
+
+MIT
 
 ###### Design belongs to **_Jonas Schmedtmann_**
